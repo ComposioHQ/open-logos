@@ -1,0 +1,43 @@
+<svg version="1.1" id="Layer_1" xmlns:x="ns_extend;" xmlns:i="ns_ai;" xmlns:graph="ns_graphs;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 101.3 45" style="enable-background:new 0 0 101.3 45;" xml:space="preserve">
+ <style type="text/css">
+  .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{mask:url(#mask0_4236_517_1_);}
+ </style>
+ <metadata>
+  <sfw xmlns="ns_sfw;">
+   <slices>
+   </slices>
+   <sliceSourceBounds bottomLeftOrigin="true" height="45" width="101.3" x="-24.5" y="0.3">
+   </sliceSourceBounds>
+  </sfw>
+ </metadata>
+ <g id="logo">
+  <g id="MX_LOGO_White">
+   <path id="Fill_1" class="st0" d="M53.1,43.3l5.8-7.5c0,0,0-0.1,0-0.2L53.8,0.2c0-0.1-0.1-0.2-0.3-0.2h-6.7c-0.1,0-0.2,0-0.2,0.1
+			L30.5,32.7c-0.1,0.2-0.4,0.2-0.5,0L13.8,0.1C13.8,0,13.7,0,13.6,0H6.8C6.6,0,6.5,0.1,6.5,0.2L0,44.7C0,44.8,0.1,45,0.3,45h7.9
+			c0.1,0,0.2-0.1,0.3-0.2l3.9-28.5c0-0.3,0.4-0.3,0.5-0.1l14.3,28.7c0,0.1,0.1,0.1,0.2,0.1H33c0.1,0,0.2,0,0.2-0.1l14.1-28.3
+			c0.1-0.2,0.5-0.2,0.5,0.1l3.8,27.6c0,0.2,0.3,0.3,0.5,0.1L53.1,43.3z">
+   </path>
+   <g id="Group_5">
+    <defs>
+     <filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="56.2" y="0" width="45" height="45">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0">
+      </feColorMatrix>
+     </filter>
+    </defs>
+    <mask maskUnits="userSpaceOnUse" x="56.2" y="0" width="45" height="45" id="mask0_4236_517_1_">
+     <path id="Clip_4_1_" class="st1" d="M56.2,45h45V0h-45V45L56.2,45z">
+     </path>
+    </mask>
+    <g class="st2">
+     <path id="Fill_3" class="st0" d="M91.1,0c-0.1,0-0.1,0-0.2,0.1L79,15.5c-0.1,0.1-0.3,0.1-0.4,0L66.7,0.1c0,0-0.1-0.1-0.2-0.1
+					h-9.9c-0.2,0-0.3,0.3-0.2,0.4l17,21.9c0.1,0.1,0.1,0.2,0,0.3l-17,21.9c-0.1,0.2,0,0.4,0.2,0.4h9.9c0.1,0,0.1,0,0.2-0.1
+					l11.9-15.4c0.1-0.1,0.3-0.1,0.4,0l11.9,15.4c0,0,0.1,0.1,0.2,0.1h9.9c0.2,0,0.3-0.3,0.2-0.4l-17-21.9c-0.1-0.1-0.1-0.2,0-0.3
+					l17-21.9c0-0.2,0-0.4-0.3-0.4H91.1z">
+     </path>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
